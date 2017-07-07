@@ -1,0 +1,8 @@
+Root
+	-Center
+		-Pelvis
+			-Body
+				-L_UpperArm
+				-R_UpperArm
+			-L_Leg
+			_R_Leg

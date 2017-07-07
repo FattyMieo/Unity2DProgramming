@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: b63a434dc3003be43abab250a9a8dd98
+timeCreated: 1496891827
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Body
+    21300004: Leg1
+    21300006: Shoe1
+    21300008: Leg2
+    21300010: Shoe2
+    21300012: Shoe3
+    21300014: Pelvis
+    21300016: UpperArm1
+    21300018: Boy_9
+    21300020: Leg3
+    21300022: Boy_11
+    21300024: Boy_12
+    21300026: Fist1
+    21300028: Boy_14
+    21300030: Fist2
+    21300032: Arm1
+    21300034: Arm2
+    21300036: Leg4
+    21300038: UpperArm2
+    21300040: Face1
+    21300042: Neck
+    21300044: Face2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 406
+        width: 121
+        height: 132
+      alignment: 9
+      pivot: {x: 0.44352552, y: 0.0712523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 68
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.103859946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 51
+        height: 64
+      alignment: 9
+      pivot: {x: 0.66834456, y: 0.9161377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoe1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 67
+        height: 30
+      alignment: 9
+      pivot: {x: 0.28032652, y: 0.710259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 274
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5786684, y: 0.88328457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoe2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 65
+        height: 30
+      alignment: 9
+      pivot: {x: 0.29513234, y: 0.7219401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoe3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 244
+        width: 53
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4801643, y: 0.7002465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pelvis
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 199
+        width: 63
+        height: 47
+      alignment: 9
+      pivot: {x: 0.62515414, y: 0.5633759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UpperArm1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 191
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.9110832, y: 0.8023332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 179
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 119
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6513228, y: 0.78535134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 157
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.41239205, y: 0.9106617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 125
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.22966707, y: 0.48155594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 88
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.19462411, y: 0.79001194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 78
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7002465, y: 0.9088369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 33
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47345218, y: 0.7928981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UpperArm2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.23717645, y: 0.86696136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Face1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 34
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6494489, y: 0.532447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neck
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.54638076, y: 0.21214499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Face2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 34
+        height: 27
+      alignment: 9
+      pivot: {x: 0.64944905, y: 0.58436275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
