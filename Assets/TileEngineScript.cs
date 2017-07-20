@@ -139,16 +139,16 @@ public class TileEngineScript : MonoBehaviour
         Debug.Log(data.Substring(data.IndexOf("data") + 7));
         string[] mapDataRow = data.Substring(data.IndexOf("data") + 7).Split('\n');
 
-        for(int row = 0; row < mapHeight; row++)
+        for(int row = mapHeight - 1; row >= 0; row--)
         {
             Debug.Log(mapDataRow[row]);
             string[] mapDataCol = mapDataRow[row].Split(',');
 
-            for(int col = 0; col < mapWidth; col++)
+            for(int col = mapWidth - 1; col >= 0; col--)
             {
                 Debug.Log(mapDataCol[col]);
                 //populate tilemap with data
-                tileMap[row, col] = int.Parse(mapDataCol[col]);
+                tileMap[row, col] = int.Parse(mapDataCol[col]) - 1;
             }
         }
         
