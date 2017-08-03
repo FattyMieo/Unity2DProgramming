@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Laser.unity
+  isLoaded: 1
+  isActive: 1
