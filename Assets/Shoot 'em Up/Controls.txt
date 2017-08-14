@@ -1,0 +1,3 @@
+Keyboard: WASD to Move, Space to shoot
+Mouse: Drag mouse to Move, LMB to shoot
+Gamepad: Left Joystick to Move, Button 0 to shoot
