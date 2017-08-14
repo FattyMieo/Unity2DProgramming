@@ -31,7 +31,7 @@ public class ParallaxClassicScript : MonoBehaviour
 
     void ParallaxMovement()
     {
-        velocity.x = Input.GetAxis("Horizontal") * Time.deltaTime * parallaxFactor;
+        velocity.x = -Input.GetAxis("Horizontal") * Time.deltaTime * parallaxFactor;
         spriteA.transform.Translate(velocity);
         spriteB.transform.Translate(velocity);
     }
